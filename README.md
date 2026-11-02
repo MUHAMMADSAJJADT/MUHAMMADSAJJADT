@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MUHAMMADSAJJADT
+- 👋 Hi, 
 - 👀 I’m interested in ethical Hacking
 - 🌱 I’m currently learning cyber security 
 
